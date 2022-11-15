@@ -1,15 +1,15 @@
-# Programming Challenges
-All task from list of Programming Challenges v1.4 
+# Programming Challenges :nerd_face:
 
-![list](https://user-images.githubusercontent.com/96984507/201674166-65fe8a88-b038-41e2-832c-7cb08d581e69.png)
+* [C# basic](https://www.w3resource.com/csharp-exercises/basic/index.php) :point_left:
+* [Karan projects](https://github.com/karan/Projects)
+* [Austin Henley projects](https://austinhenley.com/blog/challengingprojects.html)
 
-## Table of content
-* [00 Name generator](#00)
+## C# basic - Table of content
+1. Write a C# Sharp program to print Hello and your name in a separate line
 
-## Progress
+### C# basic Progress: 
+0/100 ◻️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️
 
-0/100
-* <a name="00">00</a> [Name Generator](challenges/00_Name_Generator) - 15.11.2022 *Done* (`C#`)<br>
-![00](docs/images/00.png)
+
 
 
