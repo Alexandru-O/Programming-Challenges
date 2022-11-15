@@ -5,10 +5,8 @@
 * [Austin Henley projects](https://austinhenley.com/blog/challengingprojects.html)
 
 ## C# basic - Table of content
-1. Write a C# Sharp program to print Hello and your name in a separate line
+1. Write a C# Sharp program to print Hello and your name in a separate line ✔️
 
-### C# basic Progress: 
-0/100 ◻️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️
 
 
 
