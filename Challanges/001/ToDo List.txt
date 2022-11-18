@@ -1,7 +1,0 @@
-https://www.w3resource.com/csharp-exercises/basic/index.php
-https://github.com/karan/Projects
-
-https://austinhenley.com/blog/challengingprojects.html
-https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
-https://github.com/florinpop17/app-ideas
-https://austinhenley.com/blog/morechallengingprojects.html
