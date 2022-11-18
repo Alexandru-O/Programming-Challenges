@@ -5,8 +5,10 @@
 * [Austin Henley projects](https://austinhenley.com/blog/challengingprojects.html)
 
 ## C# basic - Table of content
-1. Write a C# Sharp program to print Hello and your name in a separate line ✔️
-2. Write a C# Sharp program to print the sum of two numbers.
+1. Write a C# Sharp program to print Hello and your name in a separate line. ✔️
+2. Write a C# Sharp program to print the sum of two numbers. ✔️
+3. Write a C# Sharp program to print the result of dividing two numbers.
+
 
 
 
