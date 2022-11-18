@@ -1,0 +1,15 @@
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\obj\Debug\net6.0\Proj-002.csproj.AssemblyReference.cache
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\obj\Debug\net6.0\Proj-002.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\obj\Debug\net6.0\Proj-002.AssemblyInfoInputs.cache
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\obj\Debug\net6.0\Proj-002.AssemblyInfo.cs
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\obj\Debug\net6.0\Proj-002.csproj.CoreCompileInputs.cache
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\bin\Debug\net6.0\Proj-002.exe
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\bin\Debug\net6.0\Proj-002.deps.json
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\bin\Debug\net6.0\Proj-002.runtimeconfig.json
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\bin\Debug\net6.0\Proj-002.dll
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\bin\Debug\net6.0\Proj-002.pdb
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\obj\Debug\net6.0\Proj-002.dll
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\obj\Debug\net6.0\refint\Proj-002.dll
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\obj\Debug\net6.0\Proj-002.pdb
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\obj\Debug\net6.0\Proj-002.genruntimeconfig.cache
+D:\.NET Projects\Programming-Challenges\Challanges\002\Proj-002\obj\Debug\net6.0\ref\Proj-002.dll
