@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C#-basic"
+    "\\CSharp-basic",
+    "\\CSharp-basic\\001",
+    "\\CSharp-basic\\001\\Proj-001",
+    "\\CSharp-basic\\002",
+    "\\CSharp-basic\\002\\Proj-002",
+    "\\CSharp-basic\\003",
+    "\\CSharp-basic\\003\\Proj-003"
   ],
   "PreviewInSolutionExplorer": false
 }
