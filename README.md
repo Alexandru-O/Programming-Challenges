@@ -20,6 +20,8 @@
 <br>[007.](Challanges/CSharp-basic/007/Proj-007)  Write a C# Sharp program to print on screen the output of adding, subtracting, multiplying and dividing of two numbers which will be entered by the user. ✔️
 <br>[008.](Challanges/CSharp-basic/008/Proj-008)  Write a C# Sharp program that takes a number as input and print its multiplication table. ✔️
 <br>[009.](Challanges/CSharp-basic/009/Proj-009)  Write a C# Sharp program that takes four numbers as input to calculate and print the average. ✔️
+<br>[010.](Challanges/CSharp-basic/010/Proj-010)  Write a C# Sharp program to that takes three numbers(x,y,z) as input and print the output of (x+y).z and x.y + y.z. ✔️
+
 
 
 
