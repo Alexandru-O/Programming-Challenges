@@ -23,8 +23,8 @@
 <br>[010.](Challanges/CSharp-basic/010/Proj-010)  Write a C# Sharp program to that takes three numbers(x,y,z) as input and print the output of (x+y).z and x.y + y.z. ✔️
 <br>[011.](Challanges/CSharp-basic/011/Proj-011)  Write a C# Sharp program that takes an age (for example 20) as input and prints something as "You look older than 20". ✔️
 <br>[012.](Challanges/CSharp-basic/012/Proj-012)  Write a C# program to that takes a number as input and display it four times in a row (separated by blank spaces), and then four times in the next row, with no separation. You should do it two times: Use Console. Write and then use {0}. ✔️
-
-
+<br>[013.](Challanges/CSharp-basic/013/Proj-013)  Write a C# program that takes a number as input and then displays a rectangle of 3 columns wide and 5 rows tall using that digit. ✔️
+<br>[014.](Challanges/CSharp-basic/014/Proj-014)  Write a C# program to convert from celsius degrees to Kelvin and Fahrenheit. ✔️
 
 
 
