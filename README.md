@@ -27,6 +27,8 @@
 <br>[014.](Challanges/CSharp-basic/014/Proj-014)  Write a C# program to convert from celsius degrees to Kelvin and Fahrenheit. ✔️
 <br>[015.](Challanges/CSharp-basic/015/Proj-015)  Write a C# program remove specified a character from a non-empty string using index of a character. ✔️
 <br>[016.](Challanges/CSharp-basic/016/Proj-016)  Write a C# program to create a new string from a given string where the first and last characters will change their positions. ✔️
-
+<br>[017.](Challanges/CSharp-basic/017/Proj-017)  Write a C# program to create a new string from a given string (length 1 or more ) with the first character added at the front and back. ✔️
+<br>[018.](Challanges/CSharp-basic/018/Proj-018)  Write a C# program to check two given integers and return true if one is negative and one is positive. ✔️
+<br>[019.](Challanges/CSharp-basic/019/Proj-019)  Write a C# program to compute the sum of two given integers, if two values are equal then return the triple of their sum. ✔️
 
 
