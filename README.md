@@ -25,6 +25,8 @@
 <br>[012.](Challanges/CSharp-basic/012/Proj-012)  Write a C# program to that takes a number as input and display it four times in a row (separated by blank spaces), and then four times in the next row, with no separation. You should do it two times: Use Console. Write and then use {0}. ✔️
 <br>[013.](Challanges/CSharp-basic/013/Proj-013)  Write a C# program that takes a number as input and then displays a rectangle of 3 columns wide and 5 rows tall using that digit. ✔️
 <br>[014.](Challanges/CSharp-basic/014/Proj-014)  Write a C# program to convert from celsius degrees to Kelvin and Fahrenheit. ✔️
+<br>[015.](Challanges/CSharp-basic/015/Proj-015)  Write a C# program remove specified a character from a non-empty string using index of a character. ✔️
+<br>[016.](Challanges/CSharp-basic/016/Proj-016)  Write a C# program to create a new string from a given string where the first and last characters will change their positions. ✔️
 
 
 
