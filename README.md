@@ -24,5 +24,11 @@
 <br>[017.](Challanges/CSharp-basic/017/Proj-017)  Write a C# program to create a new string from a given string (length 1 or more ) with the first character added at the front and back. ✔️
 <br>[018.](Challanges/CSharp-basic/018/Proj-018)  Write a C# program to check two given integers and return true if one is negative and one is positive. ✔️
 <br>[019.](Challanges/CSharp-basic/019/Proj-019)  Write a C# program to compute the sum of two given integers, if two values are equal then return the triple of their sum. ✔️
-
+<br>[020.](Challanges/CSharp-basic/020/Proj-020)   Write a C# program to get the absolute value of the difference between two given numbers. Return double the absolute value of the difference if the first number is greater than second number. ✔️
+<br>[021.](Challanges/CSharp-basic/021/Proj-021)   Write a C# program to check the sum of the two given integers and return true if one of the integer is 20 or if their sum is 20. ✔️
+<br>[022.](Challanges/CSharp-basic/022/Proj-022)   Write a C# program to check if an given integer is within 20 of 100 or 200. ✔️
+<br>[023.](Challanges/CSharp-basic/023/Proj-023)   Write a C# program to convert a given string into lowercase. ✔️
+<br>[024.](Challanges/CSharp-basic/024/Proj-024)   Write a C# program to find the longest word in a string. ✔️
+<br>[025.](Challanges/CSharp-basic/025/Proj-025)   Write a C# program to print the odd numbers from 1 to 99. Prints one number per line. ✔️
+<br>[026.](Challanges/CSharp-basic/026/Proj-026)   Write a C# program to compute the sum of the first 500 prime numbers. ✔️
 
