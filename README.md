@@ -31,4 +31,6 @@
 <br>[024.](Challanges/CSharp-basic/024/Proj-024)   Write a C# program to find the longest word in a string. ✔️
 <br>[025.](Challanges/CSharp-basic/025/Proj-025)   Write a C# program to print the odd numbers from 1 to 99. Prints one number per line. ✔️
 <br>[026.](Challanges/CSharp-basic/026/Proj-026)   Write a C# program to compute the sum of the first 500 prime numbers. ✔️
+<br>[027.](Challanges/CSharp-basic/027/Proj-027)   Write a C# program and compute the sum of the digits of an integer. ✔️
+<br>[028.](Challanges/CSharp-basic/028/Proj-028)   rite a C# program to reverse the words of a sentence. ✔️
 
