@@ -1,0 +1,15 @@
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\bin\Debug\net6.0\Proj-030.exe
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\bin\Debug\net6.0\Proj-030.deps.json
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\bin\Debug\net6.0\Proj-030.runtimeconfig.json
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\bin\Debug\net6.0\Proj-030.dll
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\bin\Debug\net6.0\Proj-030.pdb
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\obj\Debug\net6.0\Proj-030.csproj.AssemblyReference.cache
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\obj\Debug\net6.0\Proj-030.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\obj\Debug\net6.0\Proj-030.AssemblyInfoInputs.cache
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\obj\Debug\net6.0\Proj-030.AssemblyInfo.cs
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\obj\Debug\net6.0\Proj-030.csproj.CoreCompileInputs.cache
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\obj\Debug\net6.0\Proj-030.dll
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\obj\Debug\net6.0\refint\Proj-030.dll
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\obj\Debug\net6.0\Proj-030.pdb
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\obj\Debug\net6.0\Proj-030.genruntimeconfig.cache
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\030\Proj-030\obj\Debug\net6.0\ref\Proj-030.dll
