@@ -32,5 +32,8 @@
 <br>[025.](Challanges/CSharp-basic/025/Proj-025)   Write a C# program to print the odd numbers from 1 to 99. Prints one number per line. ✔️
 <br>[026.](Challanges/CSharp-basic/026/Proj-026)   Write a C# program to compute the sum of the first 500 prime numbers. ✔️
 <br>[027.](Challanges/CSharp-basic/027/Proj-027)   Write a C# program and compute the sum of the digits of an integer. ✔️
-<br>[028.](Challanges/CSharp-basic/028/Proj-028)   rite a C# program to reverse the words of a sentence. ✔️
-
+<br>[028.](Challanges/CSharp-basic/028/Proj-028)   Write a C# program to reverse the words of a sentence. ✔️
+<br>[029.](Challanges/CSharp-basic/029/Proj-029)   Write a C# program to find the size of a specified file in bytes. ✔️
+<br>[030.](Challanges/CSharp-basic/030/Proj-030)   Write a C# program to convert a hexadecimal number to decimal number.  ✔️
+<br>[031.](Challanges/CSharp-basic/031/Proj-031)   Write a C# program to multiply corresponding elements of two arrays of integers.  ✔️
+<br>[032.](Challanges/CSharp-basic/032/Proj-032)   Write a C# program to create a new string of four copies, taking last four characters from a given string. If the length of the given string is less than 4 return the original one.  ✔️
