@@ -1,0 +1,15 @@
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\bin\Debug\net6.0\Proj-037.exe
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\bin\Debug\net6.0\Proj-037.deps.json
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\bin\Debug\net6.0\Proj-037.runtimeconfig.json
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\bin\Debug\net6.0\Proj-037.dll
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\bin\Debug\net6.0\Proj-037.pdb
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\obj\Debug\net6.0\Proj-037.csproj.AssemblyReference.cache
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\obj\Debug\net6.0\Proj-037.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\obj\Debug\net6.0\Proj-037.AssemblyInfoInputs.cache
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\obj\Debug\net6.0\Proj-037.AssemblyInfo.cs
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\obj\Debug\net6.0\Proj-037.csproj.CoreCompileInputs.cache
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\obj\Debug\net6.0\Proj-037.dll
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\obj\Debug\net6.0\refint\Proj-037.dll
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\obj\Debug\net6.0\Proj-037.pdb
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\obj\Debug\net6.0\Proj-037.genruntimeconfig.cache
+D:\.NET Projects\Programming-Challenges\Challanges\CSharp-basic\037\Proj-037\obj\Debug\net6.0\ref\Proj-037.dll
