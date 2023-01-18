@@ -34,6 +34,14 @@
 <br>[027.](Challanges/CSharp-basic/027/Proj-027)   Write a C# program and compute the sum of the digits of an integer. ✔️
 <br>[028.](Challanges/CSharp-basic/028/Proj-028)   Write a C# program to reverse the words of a sentence. ✔️
 <br>[029.](Challanges/CSharp-basic/029/Proj-029)   Write a C# program to find the size of a specified file in bytes. ✔️
-<br>[030.](Challanges/CSharp-basic/030/Proj-030)   Write a C# program to convert a hexadecimal number to decimal number.  ✔️
-<br>[031.](Challanges/CSharp-basic/031/Proj-031)   Write a C# program to multiply corresponding elements of two arrays of integers.  ✔️
-<br>[032.](Challanges/CSharp-basic/032/Proj-032)   Write a C# program to create a new string of four copies, taking last four characters from a given string. If the length of the given string is less than 4 return the original one.  ✔️
+<br>[030.](Challanges/CSharp-basic/030/Proj-030)   Write a C# program to convert a hexadecimal number to decimal number. ✔️
+<br>[031.](Challanges/CSharp-basic/031/Proj-031)   Write a C# program to multiply corresponding elements of two arrays of integers. ✔️
+<br>[032.](Challanges/CSharp-basic/032/Proj-032)   Write a C# program to create a new string of four copies, taking last four characters from a given string. If the length of the given string is less than 4 return the original one. ✔️
+<br>[033.](Challanges/CSharp-basic/033/Proj-033)   Write a C# program to check if a given positive number is a multiple of 3 or a multiple of 7. ✔️
+<br>[034.](Challanges/CSharp-basic/034/Proj-034)   Write a C# program to check if a string starts with a specified word. ✔️
+<br>[035.](Challanges/CSharp-basic/035/Proj-035)   Write a C# program to check two given num where one is less than 100 and other is greater than 200. ✔️
+<br>[036.](Challanges/CSharp-basic/036/Proj-036)   Write a C# program to check if an integer (from the two given integers) is in the range -10 to 10. ✔️
+<br>[037.](Challanges/CSharp-basic/037/Proj-037)   Write a C# program to check if "HP" appears at second position in a string and returns the string without "HP". ✔️
+<br>[038.](Challanges/CSharp-basic/038/Proj-038)   Write a C# program to get a new string of two characters from a given string. The first and second character of the given string must be "P" and "H", so PHP will be "PH". ✔️
+<br>[039.](Challanges/CSharp-basic/039/Proj-039)   Write a C# program to find the largest and lowest values from three integer values. ✔️
+
