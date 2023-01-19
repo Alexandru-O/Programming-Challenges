@@ -44,4 +44,13 @@
 <br>[037.](Challanges/CSharp-basic/037/Proj-037)   Write a C# program to check if "HP" appears at second position in a string and returns the string without "HP". ✔️
 <br>[038.](Challanges/CSharp-basic/038/Proj-038)   Write a C# program to get a new string of two characters from a given string. The first and second character of the given string must be "P" and "H", so PHP will be "PH". ✔️
 <br>[039.](Challanges/CSharp-basic/039/Proj-039)   Write a C# program to find the largest and lowest values from three integer values. ✔️
-
+<br>[040.](Challanges/CSharp-basic/040/Proj-040)   Write a C# program to check the nearest value of 20 of two given integers and return 0 if two numbers are same. ✔️
+<br>[041.](Challanges/CSharp-basic/041/Proj-041)   Write a C# program to check if a given string contains ‘w’ character between 1 and 3 times. ✔️
+<br>[042.](Challanges/CSharp-basic/042/Proj-042)   Write a C# program to create a new string where the first 4 characters will be in lower case. If the string is less than 4 characters then make the whole string in upper case. ✔️
+<br>[043.](Challanges/CSharp-basic/043/Proj-043)   Write a C# program to check if a given string starts with "w" and immediately followed by two "ww". ✔️
+<br>[044.](Challanges/CSharp-basic/044/Proj-044)   Write a C# program to create a new string of every other character (odd position) from the first position of a given string. ✔️
+<br>[045.](Challanges/CSharp-basic/045/Proj-045)   Write a C# program to count a specified number in a given array of integers. ✔️
+<br>[046.](Challanges/CSharp-basic/046/Proj-046)   Write a C# program to check if a number appears as either the first or last element of an array of integers and the length is 1 or more. ✔️
+<br>[047.](Challanges/CSharp-basic/047/Proj-047)   Write a C# program to compute the sum of all the elements of an array of integers. ✔️
+<br>[048.](Challanges/CSharp-basic/048/Proj-048)   Write a C# program to check if the first element and the last element are equal of an array of integers and the length is 1 or more. ✔️
+<br>[049.](Challanges/CSharp-basic/049/Proj-049)   Write a C# program to check if the first element or the last element of the two arrays ( length 1 or more) are equal. ✔️
