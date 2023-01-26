@@ -1,0 +1,15 @@
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\bin\Debug\net6.0\Proj-055.exe
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\bin\Debug\net6.0\Proj-055.deps.json
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\bin\Debug\net6.0\Proj-055.runtimeconfig.json
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\bin\Debug\net6.0\Proj-055.dll
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\bin\Debug\net6.0\Proj-055.pdb
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\obj\Debug\net6.0\Proj-055.csproj.AssemblyReference.cache
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\obj\Debug\net6.0\Proj-055.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\obj\Debug\net6.0\Proj-055.AssemblyInfoInputs.cache
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\obj\Debug\net6.0\Proj-055.AssemblyInfo.cs
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\obj\Debug\net6.0\Proj-055.csproj.CoreCompileInputs.cache
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\obj\Debug\net6.0\Proj-055.dll
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\obj\Debug\net6.0\refint\Proj-055.dll
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\obj\Debug\net6.0\Proj-055.pdb
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\obj\Debug\net6.0\Proj-055.genruntimeconfig.cache
+D:\C#\Programming-Challenges\Challanges\CSharp-basic\055\Proj-055\obj\Debug\net6.0\ref\Proj-055.dll
