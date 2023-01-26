@@ -54,3 +54,9 @@
 <br>[047.](Challanges/CSharp-basic/047/Proj-047)   Write a C# program to compute the sum of all the elements of an array of integers. ✔️
 <br>[048.](Challanges/CSharp-basic/048/Proj-048)   Write a C# program to check if the first element and the last element are equal of an array of integers and the length is 1 or more. ✔️
 <br>[049.](Challanges/CSharp-basic/049/Proj-049)   Write a C# program to check if the first element or the last element of the two arrays ( length 1 or more) are equal. ✔️
+<br>[050.](Challanges/CSharp-basic/050/Proj-050)   Write a C# program to rotate an array (length 3) of integers in left directi. ✔️
+<br>[051.](Challanges/CSharp-basic/051/Proj-051)   Write a C# program to get the larger value between first and last element of an array (length 3) of integers. ✔️
+<br>[052.](Challanges/CSharp-basic/052/Proj-052)   Write a C# program to create a new array of length containing the middle elements of three arrays (each length 3) of integers. ✔️
+<br>[053.](Challanges/CSharp-basic/053/Proj-053)   Write a C# program to check if an array contains an odd number. ✔️
+<br>[054.](Challanges/CSharp-basic/054/Proj-054)   Write a C# program to get the century from a year. ✔️
+<br>[055.](Challanges/CSharp-basic/055/Proj-055)   Write a C# program to find the pair of adjacent elements that has the largest product of an given array which is equal to a given value. ✔️
