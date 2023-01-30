@@ -1,5 +1,5 @@
 ﻿int digits;
-const double Pi = Math.PI;
+const double e = Math.E;
 do
 {
     try
@@ -7,18 +7,18 @@ do
         Console.Write("How many digits (limit is 15): ");
         digits = Convert.ToInt32(Console.ReadLine());
     }
-    catch 
+    catch
     {
         Console.WriteLine("Please insert only numbers");
         continue;
     }
     break;
-} while(true);
+} while (true);
 
 if (digits > 15)
     digits = 15;
 
-Console.WriteLine(Math.Round(Pi, digits));
+Console.WriteLine(Math.Round(e, digits));
 exit();
 
 void exit()
