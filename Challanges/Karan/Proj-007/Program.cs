@@ -36,11 +36,11 @@ do
     }
 }while(true);
 
-bool IsValid(int[] cardNumber)
+bool IsValid(int[] creditCardNumber)
 {
     int checkSum = 0;
-    //cardNumber = new int[creditCardNumber.Length];
-    Array.Copy(cardNumber, creditCardNumber, creditCardNumber.Length);
+    int[] cardNumber = new int[creditCardNumber.Length];
+    creditCardNumber.CopyTo(cardNumber, 0);
 
     for (int i = 0; i < cardNumber.Length; i++)
     {
@@ -53,7 +53,7 @@ bool IsValid(int[] cardNumber)
         }
         checkSum += cardNumber[i];
     }
-    Console.WriteLine(string.Join("", creditCardNumber));
+    Console.WriteLine(string.Join("-", cardNumber));
     if (checkSum % 10 == 0)
         return true;
     return false;
