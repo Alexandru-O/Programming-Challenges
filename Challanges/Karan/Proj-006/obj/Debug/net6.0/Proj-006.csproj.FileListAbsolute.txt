@@ -1,0 +1,15 @@
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\bin\Debug\net6.0\Proj-006.exe
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\bin\Debug\net6.0\Proj-006.deps.json
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\bin\Debug\net6.0\Proj-006.runtimeconfig.json
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\bin\Debug\net6.0\Proj-006.dll
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\bin\Debug\net6.0\Proj-006.pdb
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\obj\Debug\net6.0\Proj-006.csproj.AssemblyReference.cache
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\obj\Debug\net6.0\Proj-006.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\obj\Debug\net6.0\Proj-006.AssemblyInfoInputs.cache
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\obj\Debug\net6.0\Proj-006.AssemblyInfo.cs
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\obj\Debug\net6.0\Proj-006.csproj.CoreCompileInputs.cache
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\obj\Debug\net6.0\Proj-006.dll
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\obj\Debug\net6.0\refint\Proj-006.dll
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\obj\Debug\net6.0\Proj-006.pdb
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\obj\Debug\net6.0\Proj-006.genruntimeconfig.cache
+D:\C#\Programming-Challenges\Challanges\Karan\Proj-006\obj\Debug\net6.0\ref\Proj-006.dll

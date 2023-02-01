@@ -1,4 +1,8 @@
-﻿List<int> primes = new List<int>();
+﻿/*
+    Next Prime Number - Have the program find prime numbers until the user chooses to stop asking for the next one.
+*/
+
+List<int> primes = new List<int>();
 int nextPrime = 0;
 bool isPrime = true;
 do
