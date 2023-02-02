@@ -63,10 +63,10 @@
 
 ## Karan projects - Table of content
 [001.](Challanges/Karan/Proj-001)   Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go. ✔️
-[002.](Challanges/Karan/Proj-002)   Find e to the Nth Digit - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go. ✔️
-[003.](Challanges/Karan/Proj-003)   Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. ✔️
-[004.](Challanges/Karan/Proj-004)   Prime Factorization - Have the user enter a number and find all Prime Factors (if there are any) and display them. ✔️
-[005.](Challanges/Karan/Proj-005)   Next Prime Number - Have the program find prime numbers until the user chooses to stop asking for the next one. ✔️
-[006.](Challanges/Karan/Proj-006)   Numbers 06. Find Cost of Tile to Cover W x H Floor - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user. ✔️
-[007.](Challanges/Karan/Proj-007)   Credit Card Validator - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum). ✔️
-[008.](Challanges/Karan/Proj-008)   Alarm Clock - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time. ✔️
+<br>[002.](Challanges/Karan/Proj-002)   Find e to the Nth Digit - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go. ✔️
+<br>[003.](Challanges/Karan/Proj-003)   Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. ✔️
+<br>[004.](Challanges/Karan/Proj-004)   Prime Factorization - Have the user enter a number and find all Prime Factors (if there are any) and display them. ✔️
+<br>[005.](Challanges/Karan/Proj-005)   Next Prime Number - Have the program find prime numbers until the user chooses to stop asking for the next one. ✔️
+<br>[006.](Challanges/Karan/Proj-006)   Numbers 06. Find Cost of Tile to Cover W x H Floor - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user. ✔️
+<br>[007.](Challanges/Karan/Proj-007)   Credit Card Validator - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum). ✔️
+<br>[008.](Challanges/Karan/Proj-008)   Alarm Clock - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time. ✔️
